@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/a/xAbF0l2" />
+  <img src="https://imgur.com/a/xAbF0l2.gif" />
 </p>
 
 <div align="center"> 
@@ -311,7 +311,7 @@ jobs:
 
 
 <p align="center">
-  <img src="https://imgur.com/a/xAbF0l2" />
+  <img src="https://imgur.com/a/xAbF0l2.gif" />
 </p>
 
 
