@@ -2,6 +2,10 @@
   <img src="https://i.imgur.com/LyHic3i.gif" />
 </p>
 
+<p align="center">
+  <img src="https://imgur.com/a/xAbF0l2" />
+</p>
+
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=60&pause=1000&color=df2e46&center=true&width=910&height=100&lines=Lucky-XD-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Lucky218" alt="Typing SVG" />
@@ -13,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/4itzeu.jpg" />
+  <img src="https://i.postimg.cc/029xmZVt/IMG-20250801-003906-211.jpg" />
 </p>
 
 ### 📊 Visitor Counter
@@ -306,7 +310,9 @@ jobs:
 
 
 
-
+<p align="center">
+  <img src="https://imgur.com/a/xAbF0l2" />
+</p>
 
 
 
